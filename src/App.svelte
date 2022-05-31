@@ -54,6 +54,11 @@
     box-sizing: border-box;
   }
 
+  main {
+    width: 400px;
+    margin: auto;
+  }
+
   h1 {
     text-align: center;
     margin-bottom: 1.25rem;
@@ -67,6 +72,7 @@
   }
 
   li {
+    list-style: none;
     padding: 2rem;
     margin-bottom: 2rem;
     background-color: bisque;
