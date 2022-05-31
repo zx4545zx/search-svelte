@@ -22,7 +22,7 @@
   }
 
   main {
-    width: 400px;
+    width: 50%;
     margin: auto;
   }
 
