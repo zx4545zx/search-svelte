@@ -29,7 +29,7 @@
       {#each users as user, i}
         <li>
           <div>
-            <h2>{i + 1} {user.name}</h2>
+            <h2>{i + 1}. {user.name}</h2>
             <h3>{user.gender}</h3>
             <h3>{user.age}</h3>
             <h3>{user.email}</h3>
